@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/GenshinD/static/css/main.ea56f83d.chunk.css",
+    "main.js": "/GenshinD/static/js/main.ba96add2.chunk.js",
+    "main.js.map": "/GenshinD/static/js/main.ba96add2.chunk.js.map",
+    "runtime-main.js": "/GenshinD/static/js/runtime-main.4cc2d75a.js",
+    "runtime-main.js.map": "/GenshinD/static/js/runtime-main.4cc2d75a.js.map",
+    "static/js/2.886f95c5.chunk.js": "/GenshinD/static/js/2.886f95c5.chunk.js",
+    "static/js/2.886f95c5.chunk.js.map": "/GenshinD/static/js/2.886f95c5.chunk.js.map",
+    "index.html": "/GenshinD/index.html",
+    "precache-manifest.d27fc9020338faa74848001da3e67401.js": "/GenshinD/precache-manifest.d27fc9020338faa74848001da3e67401.js",
+    "service-worker.js": "/GenshinD/service-worker.js",
+    "static/css/main.ea56f83d.chunk.css.map": "/GenshinD/static/css/main.ea56f83d.chunk.css.map",
+    "static/js/2.886f95c5.chunk.js.LICENSE.txt": "/GenshinD/static/js/2.886f95c5.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/GenshinD/static/media/1.296bdf6b.jpg",
+    "static/media/character.scss": "/GenshinD/static/media/Zhongli.f8db6ec5.png",
+    "static/media/tools.scss": "/GenshinD/static/media/sword.3fb1aa13.png",
+    "static/media/Char.scss": "/GenshinD/static/media/character-background.f8fb1316.png",
+    "static/media/genshin-logo.svg": "/GenshinD/static/media/genshin-logo.41f87bc9.svg",
+    "static/media/map-enemies.png": "/GenshinD/static/media/map-enemies.82450c4d.png",
+    "static/media/map-ore.png": "/GenshinD/static/media/map-ore.7c9085dc.png",
+    "static/media/map-plants.png": "/GenshinD/static/media/map-plants.efb2def8.png",
+    "static/media/map-shrines.png": "/GenshinD/static/media/map-shrines.9362288c.png",
+    "static/media/main.scss": "/GenshinD/static/media/search.c23b1272.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cc2d75a.js",
+    "static/js/2.886f95c5.chunk.js",
+    "static/css/main.ea56f83d.chunk.css",
+    "static/js/main.ba96add2.chunk.js"
+  ]
+}
